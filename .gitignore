@@ -1,0 +1,14 @@
+*.exe
+*.dub*
+*.lib
+testbed/dub.userprefs
+bin/bin.rar
+*.userprefs
+*.aux
+*.blg
+*.log
+*.gz
+*.out
+*.toc
+testbed/altNetwork.txt
+testbed/docs.json

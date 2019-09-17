@@ -1,0 +1,28 @@
+﻿{
+	"targetName": "glwtf-drey",
+	"version": "0.0.2",
+	"description": "No description",
+	"authors": [
+		"David Herberth"
+	],
+	"dependencies": {
+		"glfw-drey": {"path": "../glfw-drey-0.0.4"}
+	},
+	"importPaths": [
+		"src/"
+	],
+	"license": "public domain",
+	"configurations": [
+		{
+			"targetPath": "bin",
+			"targetType": "staticLibrary",
+			"name": "glwtf-drey"
+		}
+	],
+	"homepage": "https://github.com/AndrejMitrovic/glwtf-drey",
+	"sourcePaths": [
+		"src/"
+	],
+	"name": "glwtf-drey",
+	"copyright": "Copyright © 2014, David Herberth"
+}

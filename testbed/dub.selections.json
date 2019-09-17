@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"glfw-drey": "0.0.4",
+		"glad-drey": "0.0.3",
+		"glwtf-drey": "0.0.2"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"targetName": "glfw-drey",
+	"libs-posix": [
+		"glfw"
+	],
+	"version": "0.0.4",
+	"description": "This is a copy of the Deimos glfw repository contained as a dub package.",
+	"authors": [
+		"Andrej Mitrovic"
+	],
+	"libs-linux": [
+		"GL",
+		"Xrandr",
+		"Xi",
+		"Xinerama",
+		"Xcursor",
+		"Xrender",
+		"drm",
+		"Xdamage",
+		"Xxf86vm",
+		"Xext",
+		"X11",
+		"pthread"
+	],
+	"importPaths": [
+		"src/"
+	],
+	"license": "BSL-1.0",
+	"configurations": [
+		{
+			"targetPath": "bin",
+			"targetType": "staticLibrary",
+			"name": "glfw-drey"
+		}
+	],
+	"sourceFiles-windows-x86_64": [
+		"implib/glfw3_x86_64.lib"
+	],
+	"homepage": "https://github.com/AndrejMitrovic/glfw-drey",
+	"sourceFiles-windows-x86": [
+		"implib/glfw3_x86.lib"
+	],
+	"sourcePaths": [
+		"src/"
+	],
+	"name": "glfw-drey",
+	"copyright": "Copyright © 2014, Andrej Mitrovic"
+}

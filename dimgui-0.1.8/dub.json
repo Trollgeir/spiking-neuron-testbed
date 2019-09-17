@@ -1,0 +1,31 @@
+{
+	"targetName": "imgui",
+	"version": "0.1.8",
+	"description": "dimgui is a D port of the imgui OpenGL GUI library",
+	"authors": [
+		"Mikko Mononen",
+		"Adrien Herubel",
+		"Andrej Mitrovic"
+	],
+	"dependencies": {
+		"glad-drey": {"path": "../glad-drey-0.0.3"}
+	},
+	"importPaths": [
+		"src/"
+	],
+	"license": "zlib",
+	"configurations": [
+		{
+			"targetType": "staticLibrary",
+			"name": "library"
+		}
+	],
+	"targetPath": "bin",
+	"homepage": "https://github.com/d-gamedev-team/dimgui",
+	"targetType": "staticLibrary",
+	"sourcePaths": [
+		"src"
+	],
+	"name": "dimgui",
+	"copyright": "Copyright (c) 2009-2010 Mikko Mononen memon@inside.org"
+}

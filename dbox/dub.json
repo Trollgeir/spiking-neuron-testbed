@@ -1,0 +1,31 @@
+{
+    "name": "dbox",
+
+    "description": "dbox is a D port of the Box2D game physics library",
+
+    "authors": [
+        "Erin Catto",
+        "Andrej Mitrovic"
+    ],
+
+    "homepage": "https://github.com/d-gamedev-team/dbox",
+
+    "copyright": "Copyright (c) 2006-2013 Erin Catto http://www.gphysics.com",
+
+    "license": "zlib",
+
+    "targetName": "dbox",
+
+    "targetType": "staticLibrary",
+
+    "targetPath" : "bin",
+
+    "sourcePaths": [
+        "src"
+    ],
+
+    "dependencies": {
+        "glad-drey": {"path": "../glad-drey-0.0.3"},
+        "dimgui": {"path": "../dimgui-0.1.8/"}
+    },
+}

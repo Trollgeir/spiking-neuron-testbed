@@ -1,0 +1,18 @@
+{
+	"Version": 1,
+	"Files": {
+		"src/deimos/glfw/glfw2.d": "RegularFile",
+		"dub.json": "RegularFile",
+		"implib/glfw3_x86.lib": "RegularFile",
+		"src/deimos/glfw/glfw3.d": "RegularFile",
+		".gitignore": "RegularFile",
+		"src/deimos/glfw/": "Directory",
+		"implib/": "Directory",
+		"implib/glfw3_x86_64.lib": "RegularFile",
+		"license.txt": "RegularFile",
+		"readme.md": "RegularFile",
+		"src/deimos/": "Directory",
+		"src/": "Directory",
+		"journal.json": "RegularFile"
+	}
+}

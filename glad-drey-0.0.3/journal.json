@@ -1,0 +1,19 @@
+{
+	"Version": 1,
+	"Files": {
+		"src/glad/": "Directory",
+		"dub.json": "RegularFile",
+		"src/glad/gl/all.d": "RegularFile",
+		"src/glad/gl/ext.d": "RegularFile",
+		"src/glad/gl/gl.d": "RegularFile",
+		"src/glad/gl/types.d": "RegularFile",
+		"src/glad/gl/": "Directory",
+		"src/glad/gl/enums.d": "RegularFile",
+		"license.txt": "RegularFile",
+		"readme.md": "RegularFile",
+		"src/": "Directory",
+		"src/glad/gl/funcs.d": "RegularFile",
+		"src/glad/gl/loader.d": "RegularFile",
+		"journal.json": "RegularFile"
+	}
+}

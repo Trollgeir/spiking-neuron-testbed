@@ -1,0 +1,1 @@
+Remember to download glfw.dll to execute the binary- http://www.glfw.org/download.html

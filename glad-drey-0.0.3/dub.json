@@ -1,0 +1,28 @@
+{
+	"targetName": "glad-drey",
+	"version": "0.0.3",
+	"description": "This is an OpenGL function pointer loader generated with glad.",
+	"authors": [
+		"Andrej Mitrovic"
+	],
+	"importPaths": [
+		"src/"
+	],
+	"license": "BSL-1.0",
+	"configurations": [
+		{
+			"libs-posix": [
+				"dl"
+			],
+			"targetPath": "bin",
+			"targetType": "staticLibrary",
+			"name": "glad-drey"
+		}
+	],
+	"homepage": "https://github.com/AndrejMitrovic/glad-drey",
+	"sourcePaths": [
+		"src/"
+	],
+	"name": "glad-drey",
+	"copyright": "Copyright © 2014, Andrej Mitrovic"
+}

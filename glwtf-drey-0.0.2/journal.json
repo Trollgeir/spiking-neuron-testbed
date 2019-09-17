@@ -1,0 +1,16 @@
+{
+	"Version": 1,
+	"Files": {
+		"src/glwtf/window.d": "RegularFile",
+		"dub.json": "RegularFile",
+		".gitignore": "RegularFile",
+		"src/glwtf/": "Directory",
+		"src/glwtf/glfw.d": "RegularFile",
+		"src/glwtf/input.d": "RegularFile",
+		"readme.md": "RegularFile",
+		"src/glwtf/exception.d": "RegularFile",
+		"src/glwtf/signals.d": "RegularFile",
+		"src/": "Directory",
+		"journal.json": "RegularFile"
+	}
+}
